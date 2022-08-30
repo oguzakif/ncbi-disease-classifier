@@ -437,6 +437,8 @@ This model has better results than the GRU model but it's training duration is m
 
 Due to not enough data this model is the most overfitted model in the experiment. In spite of dropout layer and low learning rate. Also takes the longest to train.
 
+<br>
+
 # Evaluation
 
 The accuracy and loss values on the test data are listed below.
