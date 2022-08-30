@@ -4,7 +4,7 @@ Disease word classifier model comparison with different types of neural networks
 
 ## Dataset Preview
 
-<table class="table-auto rounded-lg font-mono w-full text-gray-900 text-xs"><thead class="sticky top-0 left-0 right-0 bg-white shadow-sm z-10"><tr class="border-b text-left divide-x dark:divide-gray-800 space-y-54"><th class="max-w-sm p-2 text-left">id (string)</th><th class="max-w-sm p-2 text-left">tokens (json)</th><th class="max-w-sm p-2 text-left">ner_tags (json)</th></tr></thead>
+<table class="table-auto rounded-lg font-mono w-full text-gray-900 text-xs"><thead class="sticky top-0 left-0 right-0 bg-white shadow-sm z-10"><tr class="border-b text-left divide-x dark:divide-gray-800 space-y-54"><th class="max-w-sm p-2 text-left">id (string)</th><th class="max-w-sm p-2 text-left">tokens (array)</th><th class="max-w-sm p-2 text-left">ner_tags (array)</th></tr></thead>
     <tbody class="h-16 overflow-scroll"><tr class="border-b last:border-none divide-x dark:divide-gray-800 space-x-4 odd:bg-gray-50 dark:odd:bg-gray-900 group hover:cursor-pointer focus:bg-gradient-to-b focus:from-blue-100 dark:focus:from-blue-900 focus:to-blue-50 dark:focus:to-gray-900 hover:bg-gray-100 dark:hover:bg-gray-900 focus:odd:bg-white" tabindex="0"><td class="max-w-sm break-words p-2 group-focus:align-top"><div class="line-clamp-2 group-focus:line-clamp-none">
 <div class="" dir="auto">0
 </div></div>
